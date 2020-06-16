@@ -1,0 +1,6 @@
+org/openmrs/module/nigeriamrs/poc/Item.class
+org/openmrs/module/nigeriamrs/poc/NigeriaMRSPoCActivator.class
+org/openmrs/module/nigeriamrs/poc/api/dao/NigeriaMRSPoCDao.class
+org/openmrs/module/nigeriamrs/poc/api/impl/NigeriaMRSPoCServiceImpl.class
+org/openmrs/module/nigeriamrs/poc/api/NigeriaMRSPoCService.class
+org/openmrs/module/nigeriamrs/poc/NigeriaMRSPoCConfig.class
