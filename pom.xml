@@ -126,8 +126,6 @@
 		<uicommonsVersion>2.12.0</uicommonsVersion>
 		<uiframeworkVersion>3.17.0</uiframeworkVersion>
 		<uilibraryVersion>2.0.6</uilibraryVersion>
-		<webservices.restModuleVersion>2.21.0</webservices.restModuleVersion>
-
 		<!-- core configuration library -->
 		<!-- Add NMRS module as a dependency since it is not yet a distributed module -->
 	</properties>
