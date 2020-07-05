@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4de253d0-4625-4861-a1d2-f6e06917db4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openmrs_module_nigeriaemr_1_2_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omod/src/main/resources/apps/.idea/apps.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/resources/openmrs-distro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/openmrs-distro.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/target/classes/openmrs-distro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/openmrs-distro.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/target/maven-java-formatter-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-java-formatter-cache.properties" afterDir="false" />
@@ -12,6 +15,10 @@
       <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.nigeriamrs.poc.api.dao.NigeriaMRSPoCDaoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.nigeriamrs.poc.api.dao.NigeriaMRSPoCDaoTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.api.NigeriaMRSPoCServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.api.NigeriaMRSPoCServiceTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.api.dao.NigeriaMRSPoCDaoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.api.dao.NigeriaMRSPoCDaoTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/nigeriamrs.poc-omod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/nigeriamrs.poc-omod.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omod/target/classes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omod/target/classes/openmrs-distro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/openmrs-distro.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omod/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omod/target/maven-java-formatter-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-java-formatter-cache.properties" afterDir="false" />
@@ -34,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/omod/src/main/resources/apps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../openmrs-module-nigeriaemr" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -80,7 +87,9 @@
       <workItem from="1593189551618" duration="4176000" />
       <workItem from="1593209451455" duration="1594000" />
       <workItem from="1593495833119" duration="598000" />
-      <workItem from="1593503240248" duration="6100000" />
+      <workItem from="1593503240248" duration="8959000" />
+      <workItem from="1593955691424" duration="715000" />
+      <workItem from="1593959112333" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="First Comit...">
       <created>1592282483899</created>
@@ -152,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593686454638</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updates">
+      <created>1593725036344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593725036344</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +193,7 @@
     <MESSAGE value="Omod Commit" />
     <MESSAGE value="API Commit" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
 </project>

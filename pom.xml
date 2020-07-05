@@ -128,5 +128,6 @@
 		<uilibraryVersion>2.0.6</uilibraryVersion>
 		<!-- core configuration library -->
 		<!-- Add NMRS module as a dependency since it is not yet a distributed module -->
+        <nigeriaemrVersion>1.2.0-SNAPSHOT</nigeriaemrVersion>
 	</properties>
 </project>
