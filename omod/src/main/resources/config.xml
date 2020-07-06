@@ -44,6 +44,9 @@
 		<require_module>
 			org.openmrs.module.dataexchange
 		</require_module>
+        <require_module>
+            org.openmrs.module.nigeriaemr
+        </require_module>
 	</require_modules>
 	
 	<!-- Extensions -->
@@ -124,6 +127,5 @@
 		<file>messages_es.properties</file>
 	</messages>
 	<!-- /Internationalization -->
-	
 </module>
 
