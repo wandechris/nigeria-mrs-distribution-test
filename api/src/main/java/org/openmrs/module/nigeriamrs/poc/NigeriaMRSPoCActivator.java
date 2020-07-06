@@ -11,7 +11,9 @@ package org.openmrs.module.nigeriamrs.poc;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.openmrs.api.context.Context;
 import org.openmrs.module.BaseModuleActivator;
+import org.openmrs.module.dataexchange.DataImporter;
 
 /**
  * This class contains the logic that is run every time this module is either started or shutdown
@@ -24,6 +26,8 @@ public class NigeriaMRSPoCActivator extends BaseModuleActivator {
 	 * @see #started()
 	 */
 	public void started() {
+		DataImporter dataImporter = Context.getRegisteredComponent("dataImporter", DataImporter.class);
+		dataImporter.importData("metadata/concept_dictonary.xml");
 		log.info("Started NigeriaMRS.PoC");
 	}
 	
