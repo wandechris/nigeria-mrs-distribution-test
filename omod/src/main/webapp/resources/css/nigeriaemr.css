@@ -1,0 +1,67 @@
+/** Custom css for AIJAR*/
+
+body {
+    max-width: 90%;
+}
+
+header #session-location {
+    position: absolute;
+    display: none;
+    top: 60px;
+    left: 1%;
+    background: white;
+    border: 2px solid #006056;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+    width: 500px;
+    font-size: 0.8em;
+    z-index: 1;
+}
+
+/* Force all dashboard widgets to be capitalized */
+.dashboard .info-header  h3 {
+    text-transform: uppercase;
+}
+
+.logoimage{
+    height: 70px;
+    width: 70px;
+    background: whitesmoke;
+    padding: 5px;
+    border-radius: 50%;
+}
+.headerimage{
+    float: left;
+    margin: 4px;
+}
+.header{
+    background-color: black;
+}
+#headertittle
+{
+    font-size: 1.4em;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+}
+#headersubtittle
+{
+    color: #848484;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.headerelements{
+    float: left;
+    margin: 25px 0 10px 20px;
+    color: #EFEFEF;
+    width: 285px;"
+}
+
+header #session-location li {
+    width: 200px;
+}
+
