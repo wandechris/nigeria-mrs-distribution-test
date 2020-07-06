@@ -39,45 +39,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/nigeriamrs.poc-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api/nigeriamrs.poc-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriamrs/poc/NigeriaMRSPoCActivator.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriamrs/poc/NigeriaMRSPoCActivator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/resources/openmrs-distro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/openmrs-distro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/openmrs-distro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/openmrs-distro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/org/openmrs/module/nigeriamrs/poc/NigeriaMRSPoCActivator.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/org/openmrs/module/nigeriamrs/poc/NigeriaMRSPoCActivator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/maven-java-formatter-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-java-formatter-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/nigeriamrs.poc-api-1.0.0-SNAPSHOT-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/nigeriamrs.poc-api-1.0.0-SNAPSHOT-tests.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/nigeriamrs.poc-api-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/nigeriamrs.poc-api-1.0.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.nigeriamrs.poc.api.NigeriaMRSPoCServiceTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/TEST-org.openmrs.module.nigeriamrs.poc.api.dao.NigeriaMRSPoCDaoTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.api.NigeriaMRSPoCServiceTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.api.dao.NigeriaMRSPoCDaoTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nigeriamrs.poc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nigeriamrs.poc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/nigeriamrs.poc-omod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/nigeriamrs.poc-omod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriamrs/poc/extension/html/AdminList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/src/main/resources/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/src/main/resources/webModuleApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/src/main/resources/webModuleApplicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/src/test/java/org/openmrs/module/nigeriamrs/poc/AdminListExtensionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/classes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/classes/openmrs-distro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/openmrs-distro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/classes/org/openmrs/module/nigeriamrs/poc/extension/html/AdminList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/classes/webModuleApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/classes/webModuleApplicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/maven-java-formatter-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-java-formatter-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/omod/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/surefire-reports/TEST-org.openmrs.module.nigeriamrs.poc.AdminListExtensionTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/surefire-reports/org.openmrs.module.nigeriamrs.poc.AdminListExtensionTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omod/target/test-classes/org/openmrs/module/nigeriamrs/poc/AdminListExtensionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/omod/target/" />
     <ignored path="$PROJECT_DIR$/api/target/" />
@@ -183,6 +144,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/resources/css/nigeriaemr.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -232,7 +202,9 @@
         <option value="$PROJECT_DIR$/omod/src/main/webapp/fragments/nigeriaEMRHeader.gsp" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/omod/.gitignore" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/css/nigeriaemr.css" />
         <option value="$PROJECT_DIR$/api/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -276,7 +248,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594014430089" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594017095653" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/omod/src/main/resources/apps" />
   </component>
   <component name="RecentsManager">
@@ -297,6 +269,7 @@
       <recent name="org.openmrs.module.nigeriamrs.poc.page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/omod/src/main/webapp/resources/" />
       <recent name="$PROJECT_DIR$/omod/src/main/webapp/pages" />
     </key>
   </component>
@@ -367,7 +340,7 @@
       <workItem from="1593721911517" duration="1595000" />
       <workItem from="1593762285497" duration="573000" />
       <workItem from="1593768405195" duration="9671000" />
-      <workItem from="1593960912249" duration="604000" />
+      <workItem from="1593960912249" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary="First Comit...">
       <created>1592282483899</created>
@@ -524,9 +497,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nigeriamrs.poc.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/pages/pages/support.gsp" />
     <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriamrs/poc/page/controller/NigeriaEMRLoginPageController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -575,13 +545,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriamrs/poc/extension/html/AdminList.java" />
     <entry file="file://$PROJECT_DIR$/omod/src/test/java/org/openmrs/module/nigeriamrs/poc/AdminListExtensionTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/omod/src/main/resources/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -630,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/omod/src/main/resources/webModuleApplicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/fragments/nigeriaEMRHeader.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
@@ -644,10 +600,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/nigeriamrs.poc.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-820">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/resources/webModuleApplicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/resources/css/nigeriaemr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -661,7 +634,14 @@
     <entry file="file://$PROJECT_DIR$/api/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
