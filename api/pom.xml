@@ -49,6 +49,10 @@
 		</dependency>
 		<dependency>
 			<groupId>org.openmrs.module</groupId>
+			<artifactId>nigeriaemr-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.openmrs.module</groupId>
 			<artifactId>dataexchange-api</artifactId>
 			<version>1.3.3</version>
 		</dependency>

@@ -209,7 +209,7 @@
 
 			<dependency>
 				<groupId>org.openmrs.module</groupId>
-				<artifactId>nigeriaemr</artifactId>
+				<artifactId>nigeriaemr-omod</artifactId>
 				<version>${nigeriaemrVersion}</version>
 				<scope>provided</scope>
 			</dependency>
@@ -306,6 +306,6 @@
 
 		<!-- core configuration library -->
 		<!-- Add NMRS module as a dependency since it is not yet a distributed module -->
-        <nigeriaemrVersion>1.2.0-SNAPSHOT</nigeriaemrVersion>
+        <nigeriaemrVersion>1.4.2-SNAPSHOT</nigeriaemrVersion>
 	</properties>
 </project>
